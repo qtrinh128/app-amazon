@@ -1,0 +1,15 @@
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\AmazonApp.exe.config
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\AmazonApp.exe
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\AmazonApp.pdb
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\ChilkatDotNet46.dll
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.csprojAssemblyReference.cache
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.Form1.resources
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.Properties.Resources.resources
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.csproj.GenerateResource.cache
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.csproj.CoreCompileInputs.cache
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.csproj.CopyComplete
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.exe
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\obj\Debug\AmazonApp.pdb
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\Bogus.dll
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\Bogus.pdb
+C:\Users\qtrin\source\repos\AmazonApp\AmazonApp\bin\Debug\Bogus.xml
